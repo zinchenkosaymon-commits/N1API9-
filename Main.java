@@ -1,3 +1,4 @@
+package com.example.*;
 import java.util.*;
 public class Main {
 	public static int w[];
